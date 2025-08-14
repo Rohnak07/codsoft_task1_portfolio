@@ -98,11 +98,11 @@ Open index.html in your browser
 <br>
   Rohnak Singh
 <br>
-📧 Email: rohnakkumarsingh752004@gmail.com
+📧 Email: [rohnakkumarsingh752004@gmail.com)
 <br>
 💼 LinkedIn: [www.linkedin.com/in/rohnaksingh](https://www.linkedin.com/in/rohnaksingh)
 <br>
-🌐 GitHub: [https://github.com/Rohnak07](https://github.com/Rohnak07)
+🌐 GitHub: [https://github.com/Rohnak07)
 <br>
 📄 View My CV: [https://drive.google.com/file/d/1UC9H4ic3ZsaOeTGE2-FmFe6_kDoAVVtI/view?usp=drivesdk)
 <br>
