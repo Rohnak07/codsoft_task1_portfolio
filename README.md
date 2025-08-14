@@ -66,16 +66,20 @@ cd codsoft_task1_portfolio
 Open index.html in your browser
 
 
-📸 Screenshots
-<br>
-🏠 Home Page  
-![Home](Home.png)  
-👤 About Section  
-![About](About.png)  
-🛠 Skills Section  
-![Skills](Skills.png)  
-📞 Contact Section  
-![Contact](Contact.png)  
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+![Home](screenshots/Home.png)  
+
+### 👤 About Section  
+![About](screenshots/About.png)  
+
+### 🛠 Skills Section  
+![Skills](screenshots/Skills.png)  
+
+### 📞 Contact Section  
+![Contact](screenshots/Contact.png)  
+ 
 <br>
 <br>
 <br>
