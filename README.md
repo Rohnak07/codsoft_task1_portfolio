@@ -41,7 +41,7 @@ It contains **5 responsive sections**:
 ---
 
 ## 📂 Project Structure  
-<pre>codsoft_task1_portfolio/
+<pre> ``` codsoft_task1_portfolio/
 ├── 📁 Screenshot/
 │ ├── 🏠 Home.png
 │ ├── 👤 About.png
@@ -55,7 +55,7 @@ It contains **5 responsive sections**:
 ├── 🖼 profile.jpg # Profile photo
 ├── 📑 Rohnak_CV.pdf # Resume (downloadable)
 ├── 📝 README.md # Documentation file
-└── 🖼 IMG_20250308_175546.jpg # Extra image (optional) <pre/>
+└── 🖼 IMG_20250308_175546.jpg # Extra image (optional)``` </pre>
 
 
 
