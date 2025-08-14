@@ -83,14 +83,12 @@ Open index.html in your browser
 ### 📞 Contact Section  
 ![Contact](Screenshot/Contact.png) 
 
-
- 
 <br>
 <br>
 <br>
 👨‍💻 Author
 <br>
-Rohnak Singh
+  Rohnak Singh
 <br>
 📧 Email: rohnakkumarsingh752004@gmail.com
 <br>
