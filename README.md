@@ -98,7 +98,7 @@ Open index.html in your browser
 <br>
   Rohnak Singh
 <br>
-📧 Email: [rohnakkumarsingh752004@gmail.com)
+📧 Email: [rohnakkumarsingh752004@gmail.com](mailto:rohnakkumarsingh752004@gmail.com)
 <br>
 💼 LinkedIn: [www.linkedin.com/in/rohnaksingh](https://www.linkedin.com/in/rohnaksingh)
 <br>
