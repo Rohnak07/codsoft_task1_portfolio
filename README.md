@@ -104,7 +104,7 @@ Open index.html in your browser
 <br>
 🌐 GitHub: [https://github.com/Rohnak07](https://github.com/Rohnak07)
 <br>
-📄 CV/Resume: (Google Drive link coming soon)
+📄 📄 [View My CV](https://drive.google.com/file/d/1UC9H4ic3ZsaOeTGE2-FmFe6_kDoAVVtI/view?usp=drivesdk)
 <br>
 <br>
 <br>
