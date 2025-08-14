@@ -69,16 +69,16 @@ Open index.html in your browser
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](Screenshots/Home.png)  
+![Home](Screenshot/Home.png)  
 
 ### 👤 About Section  
-![About](screenshots/About.png)  
+![About](screenshot/About.png)  
 
 ### 🛠 Skills Section  
-![Skills](screenshots/Skills.png)  
+![Skills](screenshot/Skills.png)  
 
 ### 📞 Contact Section  
-![Contact](screenshots/Contact.png)  
+![Contact](screenshot/Contact.png)  
  
 <br>
 <br>
