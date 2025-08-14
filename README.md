@@ -66,12 +66,10 @@ It contains **5 responsive sections**:
    ```bash
    git clone https://github.com/Rohnak07/codsoft_task1_portfolio.git
 
+2. Navigate to the project folder <br>
+   cd codsoft_task1_portfolio
 
-
-Navigate to the project folder <br>
-cd codsoft_task1_portfolio
-
-Open index.html in your browser
+3.  Open index.html in your browser
 
 
 ## 📸 Screenshots  
