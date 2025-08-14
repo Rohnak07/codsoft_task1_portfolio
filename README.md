@@ -74,11 +74,14 @@ Open index.html in your browser
 ### 👤 About Section  
 ![About](Screenshot/About.png)  
 
+### 🎓 Education Section  
+![Education](Screenshot/Education.png) 
+
 ### 🛠 Skills Section  
 ![Skills](Screenshot/Skills.png)  
 
 ### 📞 Contact Section  
-![Contact](Screenshots/Contact.png) 
+![Contact](Screenshot/Contact.png) 
 
 
  
