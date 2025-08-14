@@ -75,7 +75,12 @@ Open index.html in your browser
 ![About](Screenshot/About.png)  
 
 ### 🛠 Skills Section  
-![Skills](Screenshot/Skills.png)  Screenshot/Contact.png)  
+![Skills](Screenshot/Skills.png)  
+
+### 📞 Contact Section  
+![Contact](Screenshots/Contact.png) 
+
+
  
 <br>
 <br>
