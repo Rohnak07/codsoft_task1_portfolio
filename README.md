@@ -41,13 +41,21 @@ It contains **5 responsive sections**:
 ---
 
 ## 📂 Project Structure  
-├── IMG_20250308_175546.jpg # Portfolio image
-├── README.md # Documentation file
-├── Rohnak_CV.pdf # Resume (PDF)
-├── index.html # Main HTML file (portfolio structure)
-├── main.js # JavaScript for interactivity
-├── profile.jpg # Profile photo
-└── style.css # CSS styles & responsive design
+<pre>codsoft_task1_portfolio/
+├── 📁 Screenshot/
+│ ├── 🏠 Home.png
+│ ├── 👤 About.png
+│ ├── 🛠 Skills.png
+│ ├── 🎓 Education.png
+│ └── 📞 Contact.png
+│
+├── 📄 index.html # Main portfolio webpage (HTML structure)
+├── 🎨 style.css # Styling & responsive design (CSS)
+├── ⚡ main.js # JavaScript for interactivity
+├── 🖼 profile.jpg # Profile photo
+├── 📑 Rohnak_CV.pdf # Resume (downloadable)
+├── 📝 README.md # Documentation file
+└── 🖼 IMG_20250308_175546.jpg # Extra image (optional) <pre/>
 
 
 
