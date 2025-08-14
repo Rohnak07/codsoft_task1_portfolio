@@ -19,8 +19,12 @@ It contains **5 responsive sections**:
 
 ---
 
-## 🔗 Live Demo  
-👉 **[Click here to view my portfolio](https://rohnak07.github.io/codsoft_task1_portfolio/)**  
+## 🚀🌐 Live Demo  
+
+👉 Check out the project here:  
+
+🔗 [Portfolio Website](https://rohnak07.github.io/codsoft_task1_portfolio/)
+
 
 ---
 
