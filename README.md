@@ -69,7 +69,7 @@ Open index.html in your browser
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](screenshots/Home.png)  
+![Home](Screenshots/Home.png)  
 
 ### 👤 About Section  
 ![About](screenshots/About.png)  
